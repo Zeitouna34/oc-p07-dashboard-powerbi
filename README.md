@@ -1,9 +1,10 @@
-📊 Projet 1 - Dashboard Power BI Sanitoral
+**📊 Projet 1 - Dashboard Power BI Sanitoral**
+
 Résumé du projet :
 Création d'un tableau de bord Power BI pour le suivi de performance de 520 phases de projets IT et Marketing chez Sanitoral (entreprise internationale soins bucco-dentaires). L'objectif était de fournir aux 3 niveaux de direction (DG, Directeurs Régionaux, Directeurs Pays) une vision 360° des projets avec alertes automatiques en cas de dépassement des seuils (>15% d'écart sur coûts, délais, livrables).
 
 
-Résumé du projet :
+**Résumé du projet :**
 Création d'un tableau de bord Power BI pour le suivi de performance de 520 phases de projets IT et Marketing chez Sanitoral (entreprise internationale soins bucco-dentaires). L'objectif était de fournir aux 3 niveaux de direction (DG, Directeurs Régionaux, Directeurs Pays) une vision 360° des projets avec alertes automatiques en cas de dépassement des seuils (>15% d'écart sur coûts, délais, livrables).
 Tâches réalisées :
 Collecte et nettoyage des données : Import fichiers CSV SIRH, traitement des incohérences, création du modèle relationnel (schéma en étoile).
@@ -13,8 +14,8 @@ Présentation des résultats : Support PowerPoint avec méthodologie, choix de v
 Compétences et outils mobilisés :
 Outils : Power BI Desktop (visualisations, DAX), Power Query (nettoyage données), Excel (préparation).
 Expertise : Modélisation relationnelle, création KPIs, data storytelling, conception multi-utilisateurs, respect RGPD.
-Livrables :
 
+**Livrables :**
 Dashboard Power BI (.pbix) avec 3 vues décisionnaires
 Product Strategy Canvas
 Note de cadrage et dictionnaire des données
