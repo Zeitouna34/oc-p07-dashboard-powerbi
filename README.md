@@ -1,5 +1,6 @@
-# oc-p07-dashboard-powerbi
-Dashboard Power BI multi-niveaux pour pilotage de portefeuille projets IT/Marketing chez Sanitoral. Suivi de 520 phases sur 4 régions avec alertes automatiques (écarts >15% coûts/délais/livrables). 3 vues décisionnaires (DG/DR/DP), cartographie mondiale, DAX avancé, Gantt interactif. Démontre maîtrise modélisation relationnelle &amp; storytelling data.
+📊 Projet 1 - Dashboard Power BI Sanitoral
+Résumé du projet :
+Création d'un tableau de bord Power BI pour le suivi de performance de 520 phases de projets IT et Marketing chez Sanitoral (entreprise internationale soins bucco-dentaires). L'objectif était de fournir aux 3 niveaux de direction (DG, Directeurs Régionaux, Directeurs Pays) une vision 360° des projets avec alertes automatiques en cas de dépassement des seuils (>15% d'écart sur coûts, délais, livrables).
 
 
 Résumé du projet :
